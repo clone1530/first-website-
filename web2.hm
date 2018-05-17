@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> WEBSITE </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="web2.css">
+
+<body>
+  <div class="wrapper">
+    <div class="box1">
+      <h1>蒨蒨 & 栎栎</h1>
+
+      <button>Memories !</button>
+    </div>
+    <div class="box2 parallax">
+      <div class="centertext">
+        <h1> Our Story </h1>
+      </div>
+    </div>
+    <div class="box3">
+      <div class="center">
+        Love has no reason, nor has it any season. When you love someone, you do it from your heart. <br>When you love someone you do it from your soul. Such is my love for you my dear. I truly loved you yesterday.
+          <br>I love you more today. And I shall love you tomorrow and till the end of time. You are the only reason why I feel so blessed in life. <br>You are my strength and my determination. I am really proud of you and lucky to have you.
+          <br>I love you so much.
+      </div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+
+    </div>
+
+    <div class="box4">
+      <img class="portrait"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczOPVlnH3fzIbOe71CpXTH1RUCy2H5uZ5Tygvkcz9WB_IO_4gWA" alt="">
+    </div>
+    <div class="box5 center1">
+      When I say I love you, please believe it's true.<br>
+      When I say forever, know I'll never leave you. <br>
+      When I say goodbye, promise me you won't cry, <br>
+      Because the day I'll be saying that will be the day I die.
+    </div>
+    <div class="box6 box6text">
+      Sometimes I've felt alone and neglected,<br>
+      unwanted and useless;<br>
+      sometimes I've looked for someone,<br>
+      but I've always failed to find that one.<br>
+      <br>
+      Until the day you came along<br>
+      and you whispered a sweet song;<br>
+      then I wondered and I smiled,<br>
+      is he the one I've been looking for?<br>
+      <br>
+      From that day, everything has changed.<br>
+      You made me feel important;<br>
+      you taught me to smile in the midst of trials,<br>
+      and you told me the reality of life.<br>
+      <br>
+      You filled me with so much happiness.<br>
+      You have loved me even in my worst.<br>
+      Thank you for changing my life.<br>
+      Thank you for giving me such love.
+
+
+    </div>
+    <div class="box7 parallax">
+      <img class="portrait"src="https://3.bp.blogspot.com/-ijLz-xBS474/UupMgFT1yXI/AAAAAAAAJrs/yEUU1Yz8kIs/s1600/how+to+photograph+landscapes+in+portrait+format.jpg" alt="">
+    </div>
+    <div class="box8">
+      <div class="center1">
+        EVERY MOMENT SPENT WITH YOU <br>
+        IS LIKE A BEAUTIFUL DREAM<br>
+        COME TRUE...
+      </div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+      <div class="heart heart-anim"></div>
+      <div class="heart heart-anim1"></div>
+      <div class="heart heart-anim2"></div>
+    </div>
+    <div class="box9 parallax1">
+    </div>
+    <div class="box10 center">
+      Whenever we are apart, I am constantly thinking of you. It is crazy how every little thing can remind me of you. <br>
+      Your smile, your laugh, and the sound of your voice are never far from my thoughts. <br>
+      I can remember the touch of your hand as though you are right here sitting next to me. <br>
+      No matter how far apart we are, you are always in my heart and in my thoughts, and your name is always on the edge of my lips. <br>
+      Your presence in a room makes my light feel so much lighter and my heart yearns for you when you are far away from me. <br>
+      Now that we are miles apart, I cannot wait until we are together again. <br>
+      When I see you again, I will never want to leave your side.
+    </div>
+
+    <div class="box11">
+      <img class="portrait"src="http://cdn3.craftsy.com/blog/wp-content/uploads/2014/04/sunrise-odiorneP1.jpg" alt="">
+    </div>
+    <div class="box12 center1">
+      <h2>生命是旅程，而非目的</h2>
+    </div>
+    <div class="box13 center1">
+      <h3>对于世界而言，你是一个人；但是对于我，你是我的整个世界</h3>
+    </div>
+    <div class="box14">
+      <img class="portrait"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJWR3XoeFfm38y7qsKJ8HojVu477mmjMKBKBXPydbL_Z6x9WY" alt="">
+    </div>
+    <div class="box15">
+
+    </div>
+
+  </div>
+</body>
